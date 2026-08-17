@@ -25,7 +25,7 @@ from loguru import logger
 EDGAR_BASE = "https://data.sec.gov"
 EDGAR_SEARCH = "https://efts.sec.gov/LATEST/search-index"
 EDGAR_COMPANY_SEARCH = "https://efts.sec.gov/LATEST/search-index?q=%22{ticker}%22&dateRange=custom&startdt={year}-01-01&enddt={year}-12-31&forms=10-K"
-HEADERS = {"User-Agent": "FinancialRAG nithinr1808@gmail.com"}  # SEC requires a User-Agent
+HEADERS = {"User-Agent": "FinancialRAG abhisheknaruka2004@gmail.com"}  # SEC requires a User-Agent
 
 # Top S&P 500 companies sample
 SP500_SAMPLE = {
