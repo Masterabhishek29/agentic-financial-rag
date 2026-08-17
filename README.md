@@ -130,7 +130,7 @@ Open **http://localhost:8501** 🎉
 ### Option B — Docker Compose (Recommended)
 
 ```bash
-git clone https://github.com/Nithin/agentic-financial-rag.git
+git clone https://github.com/Masterabhishek29/agentic-financial-rag.git
 cd agentic-financial-rag
 cp .env.example .env
 
