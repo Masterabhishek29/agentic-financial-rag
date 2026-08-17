@@ -79,7 +79,7 @@ A production-grade **multi-agent Retrieval-Augmented Generation (RAG)** pipeline
 
 **1. Clone and install**
 ```bash
-git clone https://github.com/Nithin/agentic-financial-rag.git
+git https://github.com/Masterabhishek29/agentic-financial-rag.git
 cd agentic-financial-rag
 python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
